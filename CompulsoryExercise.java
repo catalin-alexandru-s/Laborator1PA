@@ -1,3 +1,4 @@
+//Sîrcu Cătălin-Alexandru, group 2E4
 public class Lab1 {
 	
 	static int sumaCif(int nr) {
