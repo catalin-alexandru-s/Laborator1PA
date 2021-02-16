@@ -9,4 +9,4 @@ Then, I had to break the number generated into digits to make the sum between th
 two-digit number and we don't want that, so I had to create another function(sumaFin) which checks if the number is bigger than 10 meaning that, if it is formed by a two-digit number
 it will continue to break it, until we are left with a one-digit number.
 For the conversion of the binary number and hexadecimal I used two functions for converting them in a decimal number.
-Finally I had to display on the screen "Willy-nilly, this semester I will learn " + languages[result] where the result is a number from the calculations and breaking it into the digits, which will be 9 meaning that the result will be equal to 'Java'.
+Finally I had to display on the screen "Willy-nilly, this semester I will learn " + languages[result] where the result is a number from the calculations and breaking it into  digits, which will be 9 meaning that the result will be equal to 'Java'.
