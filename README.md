@@ -1,5 +1,5 @@
 # Laborator1PA 
-##Sîrcu Cătălin
+#Sîrcu Cătălin
 For Advanced Programming-First Lab.
 
 --For the compulsory exercise--
