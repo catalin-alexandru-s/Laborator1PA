@@ -1,7 +1,6 @@
 # Laborator1PA 
-
 For Advanced Programming-First Lab.
-#Sîrcu Cătălin
+
 --For the compulsory exercise--
 
 Firstly I had to show the "Hello World!" text after that I had to define an array of strings that contains programming languages.
@@ -11,3 +10,5 @@ two-digit number and we don't want that, so I had to create another function(sum
 it will continue to break it, until we are left with a one-digit number.
 For the conversion of the binary number and hexadecimal I used two functions for converting them in a decimal number.
 Finally I had to display on the screen "Willy-nilly, this semester I will learn " + languages[result] where the result is a number from the calculations and breaking it into  digits, which will be 9 meaning that the result will be equal to 'Java'.
+
+Name:Sîrcu Cătălin
