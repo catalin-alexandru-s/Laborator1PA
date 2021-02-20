@@ -1,7 +1,7 @@
 # Laborator1PA 
-#Sîrcu Cătălin
-For Advanced Programming-First Lab.
 
+For Advanced Programming-First Lab.
+#Sîrcu Cătălin
 --For the compulsory exercise--
 
 Firstly I had to show the "Hello World!" text after that I had to define an array of strings that contains programming languages.
