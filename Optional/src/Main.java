@@ -47,6 +47,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        long startTime = System.nanoTime();
         int n = validate();
         StringBuilder str = new StringBuilder();
         int[][] matrix = new int[n][n];
@@ -57,8 +58,11 @@ public class Main {
                 else
                     matrix[i][j] = matrix[j][i] = Math.random() < 0.5 ? 0 : 1;
             }
-        System.out.println(str.toString());
+        
         print(matrix, n);
         connected(matrix, n);
+        long endTime = System.nanoTime();
+        long totalTime = endTime - startTime;
+        System.out.print(totalTime);
     }
 }
